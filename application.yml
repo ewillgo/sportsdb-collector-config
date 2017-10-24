@@ -1,5 +1,0 @@
-okhttp3:
-  readTimeout: '{cipher}AQCvFJiAcXgtckbBO41C40NarVq/kSfsqiwBHp5sYXYZHz+kJZeSz3iw50Fxph9Is63hOltD2Iwd4a7xahG9hhoCjddn4Ba48pQahqquWS8LhjN4CF0kh1r7QYbbMxUEukMLbMvRUZiXVDIHRMklV0PcD8zhxH3oki1sqGAVJVOCghgJpINbs1jTv8AWWmPQ3l3IzxgFniqtq/6FGtkmohd1o+/w/q6L0B2T5rFygcpuNFsVCMFqtaSYU/0pkRYkaG8DGz3TAC6KVM1v/1BTY1f1FB0lv69vC9BLg8yxrDoyLwn9NNcC0pu+z7aSPjRCWPyf4YiTthwJBI+OU5ipOQYsN9IQM8RXKQFh0C66sqftF+wsW/jek1tOzV8ezl28EM4='
-  connectTimeout: 20
-  maxIdleConnections: 1
-  keepAliveDuration: 1
